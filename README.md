@@ -1,7 +1,10 @@
  
 
 # **Planejamento Semanal de Estudos**
-## Semana 1 22/06/2026 a  28/06/2026
+
+## Semana 1 
+
+22/06/2026 a  28/06/2026
  
 ### **Aulas**
 #### *Conceitual*
