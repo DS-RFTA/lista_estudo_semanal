@@ -6,24 +6,24 @@
 ### ** Aulas**
 #### *Conceitual*
 
-- [] Algaritmos e Lógica da promagramação - https://www.cursoemvideo.com
+- [ ] Algaritmos e Lógica da promagramação - https://www.cursoemvideo.com
 
-- [] Inglês English4Tech : https://web.dio.me/english-4-tech
+- [ ] Inglês English4Tech : https://web.dio.me/english-4-tech
 
 ### Prática
 
-- [] Exercícios : https://Beecrowd.com/
-- [] Exercícios : https://leetcode.com/
+- [ ] Exercícios : https://Beecrowd.com/
+- [ ] Exercícios : https://leetcode.com/
 
 
 ### **Leitura Conceitual**
 
-- [] Entendendo Algaritmos : Kindle
-- [] Programador Autodidata : Kindle
+- [ ] Entendendo Algaritmos : Kindle
+- [ ] Programador Autodidata : Kindle
 
 ### **Leitura Soft Skills**
 
-- [] Arrume a sua cama : Kindle
-- [] Deixe pra lá  : Kindle
+- [ ] Arrume a sua cama : Kindle
+- [ ] Deixe pra lá  : Kindle
 
 
