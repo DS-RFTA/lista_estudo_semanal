@@ -4,7 +4,7 @@
 
 ## Semana 1 
 
-22/06/2026 a  28/06/2026
+*22/06/2026 a  28/06/2026
  
 ### **Aulas**
 #### *Conceitual*
@@ -30,3 +30,6 @@
 - [ ] Deixe pra lá  : Kindle
 
 
+Semana | Pages | Concluído
+---|---|---
+1| 10 | Done
