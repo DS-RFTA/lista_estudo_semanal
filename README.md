@@ -3,15 +3,23 @@
 # **Planejamento Semanal de Estudos**
 
 ## Semana 1 
-
 * 22/06/2026 a  28/06/2026
+
+## Semana 2
+* 29/06/2026 a  05/07/2026
  
 ### **Aulas**
 #### *Conceitual*
 
-- [ ] Algaritmos e Lógica da promagramação - https://www.cursoemvideo.com
+- [ ] Algaritmos e Lógica da programação - https://www.cursoemvideo.com
 
 - [ ] Inglês English4Tech : https://web.dio.me/english-4-tech
+
+# Curso 
+
+- [ ] Tech AI Builder - https://cursos.alura.com.br/app/learning-guide/company/tech-ai-builder-191890
+- [ ]Análise de dados e IA - Nivelamento - https://cursos.alura.com.br/app/learning-guide/company/analise-de-dados-e-ia-nivelamento-185753
+
 
 ### **Prática**
 
@@ -23,13 +31,15 @@
 
 - [ ] Entendendo Algaritmos : Kindle
 - [ ] Programador Autodidata : Kindle
-
+- [ ] PENSAMENTO COMPUTACIONAL: Kindle
 ### **Leitura Soft Skills**
 
 - [ ] Arrume a sua cama : Kindle
 - [ ] Deixe pra lá  : Kindle
 
 
+Kanban
 Semana | Pages | Concluído
 ---|---|---
 1| 10 | Done
+2|    | Do
