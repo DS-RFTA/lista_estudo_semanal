@@ -12,13 +12,13 @@
 #### *Conceitual*
 
 - [ ] Algaritmos e Lógica da programação - https://www.cursoemvideo.com
-
 - [ ] Inglês English4Tech : https://web.dio.me/english-4-tech
+- [ ] PROGRAMACAO COM PYTHON (CL250128040): https://levelup.fmu.br/disciplinas
 
 # Curso 
 
-- [ ] Tech AI Builder - https://cursos.alura.com.br/app/learning-guide/company/tech-ai-builder-191890
-- [ ]Análise de dados e IA - Nivelamento - https://cursos.alura.com.br/app/learning-guide/company/analise-de-dados-e-ia-nivelamento-185753
+- [ ] Tech AI Builder : https://cursos.alura.com.br/app/learning-guide/company/tech-ai-builder-191890
+- [ ]Análise de dados e IA - Nivelamento : https://cursos.alura.com.br/app/learning-guide/company/analise-de-dados-e-ia-nivelamento-185753
 
 
 ### **Prática**
@@ -38,8 +38,9 @@
 - [ ] Deixe pra lá  : Kindle
 
 
-Kanban
+# Kanban
+
 Semana | Pages | Concluído
 ---|---|---
-1| 10 | Done
-2|    | Do
+1| 7 | Done
+2| 1/7 | Do
