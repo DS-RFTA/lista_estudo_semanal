@@ -48,7 +48,7 @@ Semana | Pages | Concluído
 # Obs..
 
 Caso prático: Melhorar rotina de estudos
-* *Subproblemas:*
+### *Subproblemas:*
 *  *Listar objetivos de aprendizagem.*
 *  *Identificar horários disponíveis.*
 *  *Definir prioridas e metas.*
