@@ -44,3 +44,11 @@ Semana | Pages | Concluído
 ---|---|---
 1| 7 | Done
 2| 1/7 | Do
+
+# Obs..
+Caso prático: Melhorar rotina de estudos
+    *Subproblemas:*
+        *Listar objetivos de aprendizagem.
+        *Identificar horários disponíveis.
+        *Definir prioridas e metas.
+     
