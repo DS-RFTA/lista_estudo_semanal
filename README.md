@@ -18,7 +18,7 @@
 # Curso 
 
 - [ ] Tech AI Builder : https://cursos.alura.com.br/app/learning-guide/company/tech-ai-builder-191890
-- [ ]Análise de dados e IA - Nivelamento : https://cursos.alura.com.br/app/learning-guide/company/analise-de-dados-e-ia-nivelamento-185753
+- [ ] Análise de dados e IA - Nivelamento : https://cursos.alura.com.br/app/learning-guide/company/analise-de-dados-e-ia-nivelamento-185753
 
 
 ### **Prática**
@@ -32,6 +32,7 @@
 - [ ] Entendendo Algaritmos : Kindle
 - [ ] Programador Autodidata : Kindle
 - [ ] PENSAMENTO COMPUTACIONAL: Kindle
+
 ### **Leitura Soft Skills**
 
 - [ ] Arrume a sua cama : Kindle
@@ -48,8 +49,11 @@ Semana | Pages | Concluído
 # Obs..
 
 Caso prático: Melhorar rotina de estudos
+
 ### *Subproblemas:*
+
 *  *Listar objetivos de aprendizagem.*
 *  *Identificar horários disponíveis.*
 *  *Definir prioridas e metas.*
+*  *Criar um cronograma.*
      
