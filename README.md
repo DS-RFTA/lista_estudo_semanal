@@ -11,7 +11,8 @@
 ### **Aulas**
 #### *Conceitual*
 
-- [ ] Algaritmos e Lógica da programação - https://www.cursoemvideo.com
+- [ ] Algaritmos e Lógica da programação: https://www.cursoemvideo.com
+- [ ] GIT e GITHUB: https://www.cursoemvideo.com
 - [ ] Inglês English4Tech : https://web.dio.me/english-4-tech
 - [ ] PROGRAMACAO COM PYTHON (CL250128040): https://levelup.fmu.br/disciplinas
 
@@ -25,6 +26,7 @@
 
 - [ ] Exercícios : https://Beecrowd.com/
 - [ ] Exercícios : https://leetcode.com/
+- [ ] Exercícios GIT E GITHUB: 
 
 
 ### **Leitura Conceitual**
@@ -54,6 +56,6 @@ Caso prático: Melhorar rotina de estudos
 
 *  *Listar objetivos de aprendizagem.*
 *  *Identificar horários disponíveis.*
-*  *Definir prioridas e metas.*
+*  *Definir prioridadess e metas.*
 *  *Criar um cronograma.*
      
