@@ -3,11 +3,8 @@
 # **Planejamento Semanal de Estudos**
 
 ## Semana 1 
-* 22/06/2026 a  28/06/2026
+* 06/07/2026 a  11/07/2026
 
-## Semana 2
-* 29/06/2026 a  05/07/2026
- 
 ### **Aulas**
 #### *Conceitual*
 
@@ -43,10 +40,10 @@
 
 # Kanban
 
-Semana | Pages | Concluído
+Week | Pages | Status
 ---|---|---
-1| 7 | Done
-2| 3/7 | Do
+1| 7 | DO
+
 
 # Obs..
 
