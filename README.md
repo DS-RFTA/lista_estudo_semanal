@@ -44,7 +44,7 @@
 Semana | Pages | Concluído
 ---|---|---
 1| 7 | Done
-2| 1/7 | Do
+2| 3/7 | Do
 
 # Obs..
 
