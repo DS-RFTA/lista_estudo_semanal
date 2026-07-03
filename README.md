@@ -8,7 +8,7 @@
 ### **Aulas**
 #### *Conceitual*
 
-- [ ] Algaritmos e Lógica da programação: https://www.cursoemvideo.com
+- [ ] Algoritmos e Lógica da programação: https://www.cursoemvideo.com
 - [ ] GIT e GITHUB: https://www.cursoemvideo.com
 - [ ] Inglês English4Tech : https://web.dio.me/english-4-tech
 - [ ] PROGRAMACAO COM PYTHON (CL250128040): https://levelup.fmu.br/disciplinas
@@ -28,7 +28,7 @@
 
 ### **Leitura Conceitual**
 
-- [ ] Entendendo Algaritmos : Kindle
+- [ ] Entendendo Algoritmos : Kindle
 - [ ] Programador Autodidata : Kindle
 - [ ] PENSAMENTO COMPUTACIONAL: Kindle
 
