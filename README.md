@@ -17,6 +17,9 @@
 
 - [ ] Tech AI Builder : https://cursos.alura.com.br/app/learning-guide/company/tech-ai-builder-191890
 - [ ] Análise de dados e IA - Nivelamento : https://cursos.alura.com.br/app/learning-guide/company/analise-de-dados-e-ia-nivelamento-185753
+- [ ] curso Data Talks - Trilhas de Carreira em Dados e IA: https://academy.indicium.ai/start
+- [ ] imersao-arquitetura-web dias 14/07, 15/07 e 16/07: https://cursos.alura.com.br/imersao/imersao-arquitetura-web
+- [ ] Lighthouse As aulas do Ciclo preparatório(13/07/2026, 19h à 06/08/2026, 23h59).
 
 
 ### **Prática**
