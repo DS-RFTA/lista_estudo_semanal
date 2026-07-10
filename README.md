@@ -2,8 +2,8 @@
 
 # **Planejamento Semanal de Estudos**
 
-## Semana 1 
-* 06/07/2026 a  11/07/2026
+## Período
+* 13/07/2026 a  31/07/2026
 
 ### **Aulas**
 #### *Conceitual*
