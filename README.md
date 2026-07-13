@@ -45,6 +45,8 @@
 
 # Kanban
 
+- **Curso** 
+
 Week | Course | Status
 ---|---|---
 1|Algoritmos e Lógica da programação| DOING
@@ -52,9 +54,10 @@ Week | Course | Status
 1|English4TechB| DOING
 1|PROGRAMACAO COM PYTHONB| DO
 
+- **Trilhas** 
+
 Week | Trail | Status
 ---|---|---
-
 1|Tech AI Buildero| DOING
 1|Análise de dados e IA - NivelamentoB| DOING
 1|curso Data Talks - Trilhas de Carreira em Dados e IA| DOING
